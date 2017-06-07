@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "example": "babel-node example.js"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-flow": "^6.23.0"
+  }
+}
